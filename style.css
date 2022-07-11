@@ -1,0 +1,100 @@
+body{
+  font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+margin: 0;
+}
+.top-section{
+  background-image: url("image/header-bg.png");
+  height: 600px;
+  background-size: cover;
+}
+.top-half-width{
+float: left;
+width: 40%;
+margin-top: 25px;
+padding: 3%;
+font-weight: 700;
+font-size: 20px;
+}
+.top-half-width img{
+width: 70%;
+margin-left: 80px;
+
+}
+.name-highlight{
+  color: tomato;
+}
+.hire-me-button{
+  text-decoration: none;
+  color: white;
+  background-color: tomato;
+  padding: 10px;
+  border-radius: 10px;
+  width: 120px;
+}
+.biograpy-half-with{
+float: left;
+width: 40%;
+margin-top: 25px;
+padding: 3%;
+font-weight: 700;
+font-size: 20px;
+}
+.biograpy-half-with img{
+  width: 70%;
+margin-left: 80px;
+}
+.biography-section{
+  background-image:url(image/biography-bg.png) ;
+  height: 700px;
+  background-size: cover;
+}
+.latest-work-heading{
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+.latest-work{
+  float: left;
+  width: 30%;
+}
+.my-latest-work img{
+  width: 97%;
+  margin: 20px;
+  padding-left: 70px;
+}
+.my-latest-work{
+  height: 500px;
+  background-image: url(image/latest-work-bg.png);
+  background-size:cover ;
+}
+.client-feedback-hedding{
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  padding-top: 50px;
+  
+}
+.feedback{
+  text-align: center;
+  padding: 30px;
+}
+.message{
+   width: 500px;
+   padding:10px ;
+   text-align: center;
+   color: white;
+   background-image: linear-gradient(to right ,#ee2a7d,#ff7db8);
+   margin-left: 400px;
+   border-radius: 10px;
+}
+.client-feedback{
+  height: 500px;
+  background-size: cover;
+  background-image: url(image/biography-bg.png);
+}
+.end{
+  text-align: center;
+}
